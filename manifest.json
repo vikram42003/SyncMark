@@ -1,0 +1,13 @@
+{
+  "name": "SyncMark",
+  "description": "A Chrome extension that syncs and manages your bookmarks",
+  "version": "0.1",
+  "manifest_version": 3,
+  "author": "vikramjit360@gmail.com",
+  "permissions": [
+    "bookmarks"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
